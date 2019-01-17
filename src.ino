@@ -3,7 +3,7 @@
  * The Boebot will find its way through a maze by using an ultrasonic sensor and two infrared sensors
  * the boebot plays 'Imperial March' when finds the exit after getting there
  * it also has led's to act as signals when turning or moving straight eg. the left led is on when the bot is turning left and middle led flashes when bot is moving straight
- * @author Ali Meshkat, Artem Sotnikov
+ * @author Ali Meshkat, Artem Sotnikov, Aziz Safri
  * @date June 19, 2018
  * @instructor Ms. Stretten
  */
